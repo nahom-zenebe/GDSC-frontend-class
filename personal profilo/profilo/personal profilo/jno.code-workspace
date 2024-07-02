@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../jno"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personal profilo"
+	}
+}
