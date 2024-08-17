@@ -1,0 +1,134 @@
+
+@font-face {
+    font-family:CursedTimerUlil;
+    src: url('./fonts/CursedTimerUlil-Aznm.ttf');
+}
+
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "Cursed Timer ULiL" , sans-serif;
+    font-family:CursedTimerUlil ;
+}
+.container{
+    border: 2px solid #000;
+    width: 470px;
+    height: 330px;
+    margin-left: 200px;
+    margin-top: 200px;
+    background-color: #1b244a;
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+    grid-gap: 50px;
+    
+
+
+}
+p{
+    font-size: 4rem;
+    color: #fff;
+    text-align: center;
+    color: rgba(249,79,109,1);
+    
+    
+   
+}
+.home{
+    margin-left: 80px;
+    margin-top: 60px;
+    color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .box1{
+    border: 2px solid #000;
+    background-color: #080001;
+    width: 140px;
+    height: 110px;
+    margin-left: 60px;
+    margin-top: 10px;
+    align-content: center;
+    border-radius: 5px;
+}
+.guest{
+ 
+    margin-top: 60px;
+    color: #fff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .box2{
+    border: 2px solid #000;
+    background-color: #080001;
+    width: 140px;
+    height: 110px;
+    margin-top: 10px;
+    align-content: center;
+    border-radius: 5px;
+}
+.btn-wrapper1{
+    margin-left: 60px;
+    margin-top: 20px;
+ 
+    
+}
+.btn-wrapper2{
+
+    margin-top: 20px;
+    
+}
+#btn1{
+    margin-right: 2px;
+    width: 35px;
+    height: 35px;
+    background-color: #1b244a;
+    border: 2px solid #9aabd8;
+    color:#9aabd8 ;
+    border-radius: 5px;
+
+}
+#btn2{
+    margin-right: 2px;
+    width: 35px;
+    height: 35px;
+    background-color:#1b244a;
+    border: 2px solid #9aabd8;
+    color:#9aabd8 ;
+    border-radius: 5px;
+}
+#btn3{
+    margin-right: 2px;
+    width: 35px;
+    height: 35px;
+    background-color: #1b244a;
+    border: 2px solid #9aabd8;
+    color:#9aabd8 ;
+    border-radius: 5px;
+}
+#btn4{
+    margin-right: 2px;
+    width: 35px;
+    height: 35px;
+    background-color:#1b244a;
+    border: 2px solid #9aabd8;
+    color:#9aabd8 ;
+    border-radius: 5px;
+}
+#btn5{
+    margin-right: 2px;
+    width: 35px;
+    height: 35px;
+    background-color: #1b244a;
+    border: 2px solid #9aabd8;
+    color:#9aabd8 ;
+    border-radius: 5px;
+}
+#btn6{
+    margin-right: 2px;
+    width: 35px;
+    height: 35px;
+    background-color: #1b244a;
+    border: 3px solid #9aabd8;
+    color:#9aabd8 ;
+    border-radius: 5px;
+}
