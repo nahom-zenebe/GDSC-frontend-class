@@ -10,7 +10,7 @@ function Weather() {
  
 
     const api=process.env.REACT_APP_api;
-            console.log(api)
+            
     
 
     async function fetchApi(city) {
